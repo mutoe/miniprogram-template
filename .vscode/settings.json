@@ -8,7 +8,7 @@
   "files.exclude": {
     "dist": false,
     ".vscode": true,
-    // ".dtpl": true,
+    ".dtpl": true,
   },
   "files.associations": {
     "*.wxss": "css",
