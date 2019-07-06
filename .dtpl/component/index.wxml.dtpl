@@ -1,7 +1,1 @@
-<!--
- * Component: ${ref.folder}/$rawModuleName/index
- * License: ${pkg.license}
- * Created: ${datetime}
--->
-
 <text>component: $rawModuleName</text>
